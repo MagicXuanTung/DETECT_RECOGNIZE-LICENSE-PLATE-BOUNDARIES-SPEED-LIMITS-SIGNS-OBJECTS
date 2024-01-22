@@ -1,2 +1,23 @@
-# Running_YOLOv8_Webcam
-license_plate_recognition_symbols , distance_measure_ object, traffic_sign, speed_limit , person, vehicle
+Setup for project
+
+1. Install Python: https://www.python.org/
+2. Install Anaconda ( development environment): https://www.anaconda.com/download
+3. Run install file requirements.txt (by Terminal on Project)
+   Content inside file “requirements.txt”:
+   ultralytics==8.0.145
+   opencv-python==4.9.0
+   easyocr==1.7.1
+   numpy==1.21.6
+
+4. ultralytics (The YOLO model is used to detect the location of objects in an image and return bounding boxes for each object)
+5. opencv-python (OpenCV is used to read, process and display images)
+6. easyocr (Use EasyOCR to read text on license plates)
+
+• Detection license*plate_recognition_symbols
+• Detection distance_measure* object:
+• Detection traffic_sign
+• Detection speed_limit
+
+![Alt text](yolo-comparison-plots.png)
+![Alt text](<Screenshot 2024-01-22 10343.png>)
+![Alt text](<Screenshot 2024-01-22 103506.png>)
