@@ -5,6 +5,8 @@ Setup for project
 3. Run install file requirements.txt (by Terminal on Project)
    Content inside file “requirements.txt”:
 
+pip install -r requirements.txt
+
    ultralytics
 
    opencv-python
