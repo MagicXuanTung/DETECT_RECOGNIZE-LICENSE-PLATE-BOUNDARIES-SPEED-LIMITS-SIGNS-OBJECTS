@@ -4,6 +4,7 @@ Setup for project
 2. Install Anaconda ( development environment): https://www.anaconda.com/download
 3. Run install file requirements.txt (by Terminal on Project)
    Content inside file “requirements.txt”:
+
    ultralytics
 
    opencv-python
