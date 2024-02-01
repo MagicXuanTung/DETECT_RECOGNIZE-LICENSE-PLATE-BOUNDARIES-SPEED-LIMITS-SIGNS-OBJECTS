@@ -4,10 +4,10 @@ Setup for project
 2. Install Anaconda ( development environment): https://www.anaconda.com/download
 3. Run install file requirements.txt (by Terminal on Project)
    Content inside file “requirements.txt”:
-   ultralytics==8.0.145
-   opencv-python==4.9.0
-   easyocr==1.7.1
-   numpy==1.21.6
+   ultralytics
+   opencv-python
+   easyoc
+   numpy
 
 4. ultralytics (The YOLO model is used to detect the location of objects in an image and return bounding boxes for each object)
 5. opencv-python (OpenCV is used to read, process and display images)
