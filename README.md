@@ -5,8 +5,11 @@ Setup for project
 3. Run install file requirements.txt (by Terminal on Project)
    Content inside file “requirements.txt”:
    ultralytics
+
    opencv-python
+
    easyoc
+
    numpy
 
 4. ultralytics (The YOLO model is used to detect the location of objects in an image and return bounding boxes for each object)
